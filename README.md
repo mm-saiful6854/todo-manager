@@ -1,4 +1,5 @@
 # todo-manager
+## Overview
 This application is a **Vuejs (vue/cli) project** where 
 Vuex and multiple vue components are used. 
 **It can be a great example for beginner.**
