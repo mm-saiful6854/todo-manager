@@ -1,4 +1,5 @@
 # todo-manager
+## Overview
 This application is a **Vuejs (vue/cli) project** where 
 Vuex and multiple vue components are used. 
 **It can be a great example for beginner.**
@@ -37,3 +38,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### License
+[GPL v3 License](LICENSE)
